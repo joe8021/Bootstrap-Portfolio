@@ -1,0 +1,36 @@
+
+body{
+    background-color: darkgray;
+}
+
+.container{
+    position: relative;
+}
+
+.row{
+    position: relative;
+    top:50%;
+}
+
+.col-md-8{
+    position: relative;
+    left:10%;
+    top:20%;
+    float:left;
+}
+
+h2{
+    position: relative;
+    left:10%;
+    top:40%;
+}
+
+p{
+    position: absolute;
+    top:20%;
+    color: ghostwhite;
+}
+
+.col-md-4{
+    background-color: azure;
+}
