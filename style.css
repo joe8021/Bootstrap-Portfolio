@@ -1,36 +1,13 @@
-
-body{
-    background-color: darkgray;
-}
-
 .container{
-    position: relative;
+    margin:25px,25px,25px,25px;
+    height:100vh;
+    
 }
 
 .row{
     position: relative;
-    top:50%;
-}
-
-.col-md-8{
-    position: relative;
-    left:10%;
     top:20%;
-    float:left;
 }
 
-h2{
-    position: relative;
-    left:10%;
-    top:40%;
-}
 
-p{
-    position: absolute;
-    top:20%;
-    color: ghostwhite;
-}
 
-.col-md-4{
-    background-color: azure;
-}
