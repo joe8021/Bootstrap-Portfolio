@@ -1,8 +1,4 @@
-.container{
-    margin:25px,25px,25px,25px;
-    height:100vh;
-    
-}
+
 
 .row{
     position: relative;
@@ -16,7 +12,6 @@
 .row{
     background:rgba(230, 227, 227, 0.671);
 }
-
 
 
 
